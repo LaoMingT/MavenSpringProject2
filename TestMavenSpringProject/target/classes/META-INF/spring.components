@@ -1,0 +1,2 @@
+laoming.service.impl.BookServiceImpl=org.springframework.stereotype.Component
+laoming.web.BookController=org.springframework.stereotype.Component
